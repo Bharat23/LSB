@@ -1,4 +1,5 @@
 # LSB
+### Only Blue LSB
 
 LSB stands for Least Significant bit algorithm used for encrypting messages in images.
 The code given here is used for the purpose of image steganography.
