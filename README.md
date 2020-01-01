@@ -12,4 +12,4 @@ Instructions of use :
 
 ## References:
 
-- [Only Blue LSB Algorithm](https://www.erpublication.org/published_paper/IJETR031671.pdf)
+- [Only Blue LSB Algorithm; Bharat Sinha](https://www.erpublication.org/published_paper/IJETR031671.pdf)
