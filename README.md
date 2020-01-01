@@ -9,3 +9,7 @@ Instructions of use :
 2. take care of the size of text as this method reduces the capacity of text bits it can accomodate
 3. Take care of the name of the input image i.e. `2.png`
 4. output image is saved in the same folder with the name `new2.png`
+
+## References:
+
+- [Only Blue LSB Algorithm](https://www.erpublication.org/published_paper/IJETR031671.pdf)
