@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.awt.Color;
 
 class ImageProcess{
-	BufferedImage fetchImage() throws Exception{
+	BufferedImage fetchImage() throws Exception {
+        // TODO: make the image name dynamic
 		File f = new File("2.png");
 		BufferedImage img = ImageIO.read(f);
 		return img;
