@@ -10,6 +10,11 @@ Instructions of use :
 3. Take care of the name of the input image i.e. `2.png`
 4. output image is saved in the same folder with the name `new2.png`
 
+## Todo
+
+- Convert it to JAR for plug-n-play use
+- Host on a repo (Maven etc)
+
 ## References:
 
 - [Only Blue LSB Algorithm; Bharat Sinha](https://www.erpublication.org/published_paper/IJETR031671.pdf)
