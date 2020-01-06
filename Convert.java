@@ -4,7 +4,7 @@ import java.nio.charset.Charset;
 class Convert {
 	//Module to Convert Binary to String
 	void conToString(StringBuilder binary){
-		try{
+		try {
 		BigInteger val = new BigInteger(""+binary, 2);
 		byte [] imageInByte = val.toByteArray();
 		String hi = new String(imageInByte);
